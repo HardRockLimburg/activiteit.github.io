@@ -1,0 +1,99 @@
+
+#header {
+padding-left: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+color: black;
+background-color: blue;
+width:  auto;
+height: 75px}
+
+#footer {
+color: red;
+background-color: purple;
+padding-left: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+width:  auto;
+height: 75px}
+
+.body
+{
+background-color : lightblue;
+}
+
+table
+{ margin-left: auto;
+  margin-right:auto;
+  padding-bottom: : 20px;
+}
+
+
+#tab-1-1 {
+color: rgb(255,0,0);
+background-color: rgb(255,255,0);
+}
+#tab-1-2 {
+color: rgb(215,0,40);
+background-color: rgb(215,215,0)
+}
+#tab-1-3 {
+color: rgb(235,0,0);
+background-color: rgb(235,235,0)
+}
+#tab-1-4 {
+color: rgb(125,23,0);
+background-color: rgb(225,225,255)
+}
+#tab-2-1 {
+color: rgb(195,0,0);
+background-color: rgb(195,195,0)
+}
+#tab-2-2 {
+color: rgb(0,34,159);
+background-color: rgb(34,100,100)
+}
+#tab-2-3 {
+color: rgb(155,100,0);
+background-color: rgb(155,155,0)
+}
+#tab-2-4 {
+color: rgb(0,10,0);
+background-color: rgb(0,20,0)
+}
+#tab-3-1 {
+color: rgb(255,0,170);
+background-color: rgb(255,255,170);
+}
+#tab-3-2 {
+color: rgb(215,70,40);
+background-color: rgb(215,215,70)
+}
+#tab-3-3 {
+color: rgb(235,0,170);
+background-color: rgb(235,235,170)
+}
+#tab-3-4 {
+color: rgb(125,23,70);
+background-color: rgb(25,225,255)
+}
+#tab-4-1 {
+color: rgb(195,0,170);
+background-color: rgb(195,195,170)
+}
+#tab-4-2 {
+color: rgb(80,34,59);
+background-color: rgb(34,80,100)
+}
+#tab-4-3 {
+color: rgb(155,100,170);
+background-color: rgb(155,155,170)
+}
+#tab-4-4 {
+color: rgb(0,10,70);
+background-color: rgb(0,20,170)
+}
+img {
+
+  width:  180px;
+  height: 140px}
